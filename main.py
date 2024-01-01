@@ -1,0 +1,1 @@
+print("Hello World IM Twanst Developer Kurdish ")
